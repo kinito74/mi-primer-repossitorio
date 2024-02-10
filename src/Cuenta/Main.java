@@ -31,12 +31,12 @@ public class Main {
             cuenta1.ingresar(695);
         } catch (Exception e) {
             System.out.print("Fallo al ingresar");
-        try {
+         try {
             System.out.println("Ingreso en cuenta");
-            cuenta1.ingresar(1000);
+            cuenta1.ingresar(2000);
         } catch (Exception e) {
-            System.out.print("Fallo al ingresar");
-        }
+            System.out.print("Fallo al ingresar");   
+    
 
         }
   
